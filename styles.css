@@ -12,7 +12,7 @@
   body {
     font-family: "Lato", Helvetica, Arial, sans-serif;
     font-size: 18px;
-    background-color: var(--fcc-blue);
+    background-color: green;
     color: var(--light-grey);
   }
   
